@@ -1,6 +1,6 @@
 # Introduction to PHP, courtesy of the Codecademy.
 
-## I am at: UNIT 1: WELCOME TO PHP!
+## I am at: UNIT 3: CONTROL FLOW: SWITCH
 
 You wanna play along, great! Make sure you have PHP installed on your machine. No, I won't tell you how.
 
