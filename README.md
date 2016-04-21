@@ -1,6 +1,6 @@
 # Introduction to PHP, courtesy of the Codecademy.
 
-## I am at: UNIT 3: CONTROL FLOW: SWITCH
+## I am at: UNIT 4: ARRAYS IN PHP
 
 You wanna play along, great! Make sure you have PHP installed on your machine. No, I won't tell you how.
 
