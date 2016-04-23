@@ -1,6 +1,6 @@
 # Introduction to PHP, courtesy of the Codecademy.
 
-## I am at: UNIT 5: LOOPS: FOR AND FOREACH
+## I am at: UNIT 6: LOOPS: WHILE AND DO-WHILE
 
 You wanna play along, great! Make sure you have PHP installed on your machine. No, I won't tell you how.
 
